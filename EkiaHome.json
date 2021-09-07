@@ -10,7 +10,7 @@
 	"news": [
 		{
 			"date": "2021-08-19",
-			"title": "Ny termin, ny start - DETTA GÄLLER HÖSTEN 2021",
+			"title": "Ny termin, ny start",
 			"subtitle": "Alla är välkomna att träna",
 			"text": "Nu börjar terminen igen, och både barn och vuxna är välkomna tillbaka till Munktellarenan. Vi har alltså träningar för nästan alla åldrar (från ca 7 år och uppåt). Detta kan komma att ändras längre fram beroende på hur pandemin fortsätter, men just nu är de flesta välkomna.\n\nKontakta gärna oss om du har några frågor, annars hittar du våra träningstider i vår kalender på höger sida (eller längre ner om du surfar på mobilen). Du eller ditt barn är välkommet att komma och provträna när det passar. Även föräldrar får följa med in och titta på, till skillnad från förra terminen.\n\nVi uppmanar starkt alla vuxna att vara fullt vaccinerade innan ni kommer och tränar, för att minska smittorisken. Vi fortsätter att följa alla råd gällande handsprit och liknande och ber alla besökare att hålla avstånd precis som tidigare.\n\nVi har ännu inte tagit beslut om hur vi gör med vår aikidolek-grupp, där yngre barn kan träna tillsammans med sina föräldrar. Information om det följer."
 		},
@@ -292,16 +292,6 @@
 			"calendarGroup": "Vuxenträning",
 			"groupInstructors": [
 				{
-					"name": "Johan Ahlberg",
-					"image": "images/johana_small.webp",
-					"anchor": "johan-a"
-				},
-				{
-					"name": "Manuel Stadelmann",
-					"image": "images/manuel_small.webp",
-					"anchor": "manuel"
-				},
-				{
 					"name": "Kasper Kjällström",
 					"image": "images/kasper_small.webp",
 					"anchor": "kasper"
@@ -332,6 +322,9 @@
 					"color": "blue",
 					"icon": "user",
 					"time": "Söndagar 11:15"
+				},
+				{
+					"time": "Tisdagar 19:45 "
 				}
 			]
 		}
